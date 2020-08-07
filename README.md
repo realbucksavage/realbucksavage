@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Go.
 - 💬 Ask me about gaming on Linux and Assassin's Creed.
 - 📫 How to reach me: By opening an issue in one of my projects or through Discord (**bucksavage100x#0476**).
-- 😄 Pronouns: Your Archmajesty
+- 😄 Pronouns: Your Imperial Archmajesty
 - 🤔 I’m looking for help with setting up a blog.
 - ⚡ Fun fact: You can use Arch without telling people that you use arch btw.
 <!-- - 👯 I’m looking to collaborate on Go and
