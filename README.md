@@ -3,8 +3,7 @@
 <!--
 **realbucksavage/realbucksavage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🔭 Currently working on closed source stuff at **[@sarvika](https://sarvika.com)** and **[realbucksavage/robin](https://github.com/realbucksavage/robin)**.
-- 🌱 I’m currently learning Go.
+- 🔭 Currently working on closed source stuff at **[@sarvika](https://sarvika.com)** and **[realbucksavage/robin](https://github.com/realbucksavage/robin)**/**[realbucksavage/innkeep](https://github.com/realbucksavage/innkeep)**.
 - 💬 Ask me about gaming on Linux and Assassin's Creed.
 - 📫 How to reach me: By opening an issue in one of my projects or through Discord (**bucksavage100x#0476**).
 - 😄 Pronouns: Your Imperial Archmajesty
