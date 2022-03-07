@@ -12,7 +12,3 @@
 <!-- - 👯 I’m looking to collaborate on Go and
 - 🤔 I’m looking for help with OpenRGB and C++.
  -->
-
----
-
-:shipit: want github meme pages
